@@ -2,6 +2,8 @@
 
 This package will log errors into MySQL database instead `storage/log/laravel.log` file.
 
+**Compatible with Laravel 10, 11, and 12.**
+
 ### Installation
 
 ~~~

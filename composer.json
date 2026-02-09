@@ -1,21 +1,28 @@
 {
     "name": "ebethus/laravel-mysql-log-driver",
     "description": "Laravel 10+ MySQL driver for Monolog",
-    "keywords": ["laravel", "log", "monolog", "mysql"],
+    "keywords": [
+        "laravel",
+        "log",
+        "monolog",
+        "mysql"
+    ],
     "homepage": "https://github.com/itelmenko/laravel-mysql-logger",
     "type": "library",
     "license": "MIT",
-    "authors": [{
-        "name": "Igor Telmenko",
-        "email": "igor.telmenko@gmail.com"
-    },
-    {
-        "name": "Alberto Berroteran",
-        "email": "alberroteran+dev@gmail.com"
-    }],
+    "authors": [
+        {
+            "name": "Igor Telmenko",
+            "email": "igor.telmenko@gmail.com"
+        },
+        {
+            "name": "Alberto Berroteran",
+            "email": "alberroteran+dev@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=8.0.0",
-        "laravel/framework": "^10.0|^11.0"
+        "laravel/framework": "^10.0|^11.0|^12.0"
     },
     "autoload": {
         "psr-0": {
